@@ -2,7 +2,7 @@ import emailjs from '@emailjs/browser';
 
 // Конфигурация EmailJS
 const EMAILJS_CONFIG = {
-  serviceId: 'service_owopqmm', // Замените на ваш Service ID
+  serviceId: 'service_skko54h', // Замените на ваш Service ID
   templateId: 'template_dgrsx62', // Замените на ваш Template ID
   publicKey: '_UQmfmuTVOm_5kXNh', // Замените на ваш Public Key
 };
